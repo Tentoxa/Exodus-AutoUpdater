@@ -29,10 +29,10 @@
 2. **Install required Python packages**:
 
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 3. **Usage**:
 
    ```bash
-   python exodus_updater.py
+   python3 exodus_updater.py
    ```
